@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Result" ALTER COLUMN "cgpa" SET DATA TYPE TEXT;
